@@ -1,0 +1,28 @@
+{
+    "transcript": [
+        {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "Hi, this is Saf Mansour."
+        },
+        {
+            "start": 2.0,
+            "end": 6.0,
+            "text": "Hi, I am Saf Father."
+        }
+    ],
+    "emotions": [
+        "neutral",
+        "neutral"
+    ],
+    "delivery_nuances": {
+        "pitch": "Normal",
+        "pace": "Moderate",
+        "tone": "Neutral"
+    },
+    "reactions": [
+        "Neutral",
+        "Neutral"
+    ],
+    "summary": "Hi, this is Saf Mansour. Hi, I am Saf Father."
+}
