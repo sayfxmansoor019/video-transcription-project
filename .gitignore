@@ -1,0 +1,21 @@
+# Virtual environment
+vllm_env/
+venv/
+.env/
+
+# Model files
+pretrained_models/
+wav2vec2_checkpoints/
+
+# Outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
